@@ -16,4 +16,4 @@ This repository contains the codebase that showcases the practical approach to i
 
 ### Video
 
-📺 [YouTube Video](https://google.com) for this repository.
+📺 [YouTube Video](https://youtu.be/5-9vvTuNPTc?si=0oXU9xGbhjdA34aR) for this repository.
